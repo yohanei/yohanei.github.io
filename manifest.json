@@ -1,3 +1,13 @@
+
+{
+  "name": "Yosoro",
+  "short_name": "YSR",
+  "lang": "zh-TW",
+  "start_url": "https://yohanei.github.io/",
+  "display": "standalone",
+  "theme_color": "#0275d8",
+  "background_color": "#fff",
+
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
